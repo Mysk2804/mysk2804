@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/MxZKME5mbgeXckKp14/giphy.gif" width="100"/>
+</div>
 
-<!--
-**Mysk2804/mysk2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋  I'm Sergey 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python student and 🧑‍💻 backend developer
+<div id="badges">
+  <a href="https://t.me/mysk2804">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/11373100">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontact Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=Mysk2804&style=flat-square&color=blue" alt=""/>
